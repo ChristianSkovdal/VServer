@@ -1,0 +1,9 @@
+{
+"db": {
+  
+    "host": "mi3-wss7.a2hosting.com",
+    "user": "beerh_mysql",
+    "password": "Wolroy501",
+    "database": "beerhere_mysql"
+  }
+}
